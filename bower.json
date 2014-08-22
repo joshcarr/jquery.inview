@@ -2,5 +2,9 @@
   "name": "joshcarr/jquery.inview",
   "version": "1.1.0",
   "main": "jquery.inview.js",
-  "description": "jQuery event that is fired as soon as an element appears in the user's viewport."
+  "description": "jQuery event that is fired as soon as an element appears in the user's viewport.",
+  "ignore": [
+    "example",
+    "test"
+  ]
 }
